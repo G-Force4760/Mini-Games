@@ -1,0 +1,21 @@
+
+Data: 2020-04-09 
+Ganhaste: 0 
+Perdeste: 2 
+Empataste: 1 
+ 
+Data: 2020-04-09 
+Ganhaste: 1 
+Perdeste: 1 
+Empataste: 1 
+ 
+Data: 2020-04-11 
+Ganhaste: 0 
+Perdeste: 1 
+Empataste: 1 
+ 
+Data: 2020-04-14 
+Ganhaste: 1 
+Perdeste: 0 
+Empataste: 2 
+ 
